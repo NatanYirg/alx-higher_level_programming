@@ -11,4 +11,3 @@ Object.getOwnPropertyNames(dict).forEach(occurences => {
   }
 });
 console.log(newDict);
-
